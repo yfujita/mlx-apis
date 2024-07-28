@@ -7,7 +7,7 @@ API sets for [MLX](https://huggingface.co/docs/hub/mlx) Models.
 * Machine
   * Mac with Apple Silicon
 * Python
-  * >= 3.10
+  * \>= 3.10
 
 ## Run
 
