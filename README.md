@@ -1,0 +1,20 @@
+# mlx-apis
+
+## Runtime Environment
+
+* Machine
+  * Mac with Apple Silicon
+* Python
+  * >= 3.10
+
+## Run
+
+```bash
+python app/main.py
+```
+
+## Access
+
+```bash
+curl -XPOST http://localhost:18081/api/llm/gemma2_mlx -d '{"text": "入力テキスト"}' -H "Content-Type: application/json"
+```
