@@ -12,6 +12,7 @@ API sets for [MLX](https://huggingface.co/docs/hub/mlx) Models.
 ## Run
 
 ```bash
+pip install -r requirements.txt
 python app/main.py
 ```
 
